@@ -1,1 +1,1 @@
-# gira
+Gira is a management tool
